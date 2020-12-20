@@ -13,16 +13,14 @@ npm install --save material-ui-phone-component
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
+import React from 'react'
+import PhoneComponent from 'material-ui-phone-component'
 
-import MyComponent from 'material-ui-phone-component'
-import 'material-ui-phone-component/dist/index.css'
-
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
+const App = () => {
+  return <PhoneComponent />
 }
+
+export default App
 ```
 
 ## License
