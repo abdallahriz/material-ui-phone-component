@@ -10,6 +10,10 @@
 npm install --save material-ui-phone-component
 ```
 
+## Demo
+
+https://tickets-app-2.herokuapp.com/
+
 ## Usage
 
 ```jsx
